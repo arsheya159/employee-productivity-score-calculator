@@ -89,5 +89,4 @@ Generated Productivity Report
 
 **Arsheya Prasad and Simonne Kulkarni**
 
-Computer Science @ Virginia Tech
 
